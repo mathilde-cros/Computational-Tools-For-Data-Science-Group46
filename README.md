@@ -19,14 +19,19 @@ Throughout the Jupyter Notebook, you will notice a first very important data cle
 To use the Jupyter Notebook, first download the folder with the data, i.e. "football_data", on your drive and change the cell in the jupyter notebook with the appropriate path:
 
 from google.colab import drive
+
 drive.mount('/content/drive')
+
 path = "drive/MyDrive/football_data/"
 
 You can also clone this repository to simplify this path. We have commented out the previous lines of code that we used in our project so that the path is simpler:
 
 \# from google.colab import drive
+
 \# drive.mount('/content/drive')
+
 \# path = "drive/MyDrive/Comp_Tools_Data_Science/football_data/"
+
 path = "football_data/"
 
 A last option you have if you want to have the most recent data is to go directly on the website Footystats: https://footystats.org , where we found our data. You can then download the top 7 leagues in Europe and, after checking that all the leagues have the same amount of features, add a "league" feature with the associated number and merge all 7 datasets into a single one. This is further explained in the report, and can be seen in the Jupyter Notebook as well.
