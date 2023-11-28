@@ -3,7 +3,7 @@
 
 In this GitHub repository, you will find:
 - The data used in our study in the folder "football_data", where inside the folder you will find .csv files for the 7 top leagues in European Football
-- The contributions of each group member to the project in the file Group_Members_Contributions_Project.txt
+- The contributions of each group member to the project in the file Group_Members_Contributions_Project.pdf
 - The Jupyter Notebook Project_Comp_Tools_DS_Group46.ipynb where all our data cleaning, preprocessing and algorithm implementation takes place
 - Our project report "Computational_Tools_for_Data_Science_Project_Report_Group_46.pdf"
 
