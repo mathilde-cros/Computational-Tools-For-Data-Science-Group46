@@ -1,5 +1,5 @@
 # Computational-Tools-For-Data-Science-Group46
-What performance statistic makes a football player “good”?
+## What performance statistic makes a football player “good”?
 
 In this GitHub repository, you will find:
 - The data used in our study in the folder "football_data", where inside the folder you will find .csv files for the 7 top leagues in European Football
